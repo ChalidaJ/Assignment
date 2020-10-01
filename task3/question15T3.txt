@@ -1,0 +1,8 @@
+How Tuple is beneficial as compare to the list?
+
+Ans. Tuple is immutable, values can not be changed. It is faster when we want to do iteration over it. It consumes less memmory. 
+While list is mutable. It is time-consuming to iterate over it but list has several buit-in methods.
+
+
+
+
