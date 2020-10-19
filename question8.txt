@@ -1,0 +1,14 @@
+1. React for a Responsive Web Front-End Development
+ex. Airbnb, Dropbox, BBC, Facebook, New York Times
+
+2. Angular Front-End Development
+ex. Netflix, Upwork, IBM, Goodfilms
+
+3. Vue.js Web App Front-End Development
+ex. Netguru and Netlify.
+
+4. Elm for a Reactive Web Front-End Development
+ex. Microsoft
+
+5.Flutter for Cross-Platform Mobile and Web Front-End Development
+ex .Google ads, Alibaba, Birch Finance, Cryptograph
